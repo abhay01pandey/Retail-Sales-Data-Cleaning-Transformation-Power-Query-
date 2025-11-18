@@ -86,7 +86,7 @@ The final cleaned dataset includes:
 
 ---
 
-## How to Reproduce
+## How to Run
 1. Place all CSV files into one folder  
 2. Use *Get Data → From Folder* in Power Query  
 3. Import each file as a separate query  
